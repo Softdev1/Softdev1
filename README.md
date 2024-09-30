@@ -9,8 +9,6 @@ I'm a results-driven Product Manager with over 3 years of experience in product 
 
 ## Skills
 
-## Skills
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </a>
