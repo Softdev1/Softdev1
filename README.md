@@ -8,7 +8,7 @@ I'm a results-driven Product Manager with over 3 years of experience in product 
 📫 You can contact me at [adebesintolulope80@gmail.com](mailto:adebesintolulope80@gmail.com)  
 
 ## Skills
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Javascript
 - HTML5
 - CSS3
 - Bootstrap
